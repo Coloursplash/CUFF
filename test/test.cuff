@@ -1,0 +1,22 @@
+strings:
+    no you
+    '15'
+    "TRUE"
+dict:
+    two layers in:
+        no you
+    {alternative}
+int:
+    15
+float:
+    15.2
+    20.0
+bool:
+    TRUE
+    FALSE
+array:
+    - 1
+    - 2
+    - 3
+    [alternative]
+    (alternative)
